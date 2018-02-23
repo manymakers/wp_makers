@@ -1,0 +1,8 @@
+{
+  "name": "wordpress_browsersync",
+  "version": "1.0.0",
+  "description": "Wordpress com Gulp e BrowserSync",
+  "main": "index.php",
+  "author": "Ricardo Gomes <contato@rickgomes.com.br>",
+  "license": "ISC"
+}
