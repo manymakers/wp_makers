@@ -16,7 +16,7 @@ Para iniciar o projeto você deverá clonar o repositório em sua máquina.
 **É importante definir o nome do projeto no final do comando Git**
 
 ```shell
-git clone https://gitlab.com/rickgomes/many_makers_wordpress.git
+git clone https://gitlab.com/rickgomes/many_makers_wordpress.git nome_do_projeto
 ```
 A estrutura do projeto será a seguinte:
 
